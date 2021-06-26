@@ -1,0 +1,50 @@
+body{
+background: #0f0c29;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Roboto', sans-serif;
+}
+
+img{
+    width: 20%;
+    height: 10%;
+    margin-bottom: 14%;
+    margin-top: 10%;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    color: white;
+    background: black;
+    margin-bottom: -5%;
+}
+
+footer{
+    
+    margin-bottom: -5%;
+    width: auto;
+    height: auto;
+}
+
+form{
+    width: 50%;
+    height: auto;
+    margin: 10% 25%;
+    color: white;
+    margin-bottom: 12%;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.accordion{
+    margin-top: 15%;
+    margin: 15%;
+}
